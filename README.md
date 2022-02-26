@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Görkem</h1>
-<h3 align="center">Management Information Systems 3rd Year Student, I am trying to improve myself in the field of Data Science , Business Intelligence and Software</h3>
+<h3 align="center">Senior Management Information Systems Student, I am trying to improve myself in the field of Data Science , Business Intelligence and Software</h3>
 
 - 🔭 I’m currently working on **Data Science**
 
